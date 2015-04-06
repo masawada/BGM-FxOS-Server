@@ -1,0 +1,7 @@
+{
+  "name": "BGM FxOS Server",
+  "repository": "https://github.com/masawada/bgm-fxos-server",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/ddollar/heroku-buildpack-multi.git"
+  }
+}
